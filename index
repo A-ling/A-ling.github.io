@@ -1,6 +1,5 @@
 <html>
-  <p id="newBk"></p>
   <script>
-    document.getElementById('newBk').html('创建个人主页（博客）！');
+    alert('创建个人主页（博客）！');
   </script>
 </html>
