@@ -1,3 +1,6 @@
 <html>
-  <p>个人网站（博客）创建</p>
+  <p id="newBk"></p>
+  <script>
+    document.getElementById('newBk').html('创建个人主页（博客）！');
+  </script>
 </html>
